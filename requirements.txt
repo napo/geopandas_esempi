@@ -12,7 +12,9 @@ defusedxml==0.5.0
 descartes==1.1.0
 entrypoints==0.3
 Fiona==1.8.4
+geographiclib==1.49
 geopandas==0.4.0
+geopy==1.18.1
 idna==2.8
 ipykernel==5.1.0
 ipython==7.2.0
