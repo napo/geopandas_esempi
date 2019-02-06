@@ -9,6 +9,7 @@ cligj==0.5.0
 cycler==0.10.0
 decorator==4.3.2
 defusedxml==0.5.0
+descartes==1.1.0
 entrypoints==0.3
 Fiona==1.8.4
 geopandas==0.4.0
@@ -35,6 +36,7 @@ pandocfilters==1.4.2
 parso==0.3.2
 pexpect==4.6.0
 pickleshare==0.7.5
+pkg-resources==0.0.0
 prometheus-client==0.5.0
 prompt-toolkit==2.0.8
 ptyprocess==0.6.0
