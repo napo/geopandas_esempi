@@ -1,4 +1,4 @@
-# Alcuni esempi su come usare geopandas 
+# Esempi su come usare geopandas 
 Gli script possono essere utilizzati seguendo il link [Binder](https://mybinder.org/v2/gh/napo/geopandas_esempi/master) in coda a questo testo
 
 ## Dati Istat
