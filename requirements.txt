@@ -45,7 +45,7 @@ pickleshare==0.7.5
 prometheus-client==0.5.0
 prompt-toolkit==2.0.8
 ptyprocess==0.6.0
-Pygments==2.3.1
+Pygments==2.15.0
 pyparsing==2.3.1
 pyproj==1.9.6
 pysal==2.0.0
